@@ -1,4 +1,6 @@
 <h1>👋 Приветствую!</h1>
+![Github stats](https://github-readme-stats.vercel.app/api?username=IgorNoroc&hide=stars,prs,issues,contribs)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNoroc&layout=compact)](https://github.com/IgorNoroc/github-readme-stats)
 <br>
 <h2>✌️ Немного о себе </h2>
 <p> - Меня зовут Игорь. Изучаю <b>java</b> больше двух лет. Последние пол года пишу проекты на Spring. Сейчас активно изучаю микросервисную архитектуру.
