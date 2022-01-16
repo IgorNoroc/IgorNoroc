@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/igornoroc)
 <h1>👋 Приветствую!</h1>
 
 <br>
