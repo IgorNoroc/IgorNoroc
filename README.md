@@ -10,7 +10,7 @@
     <b/>
     
 </p>
-<a href="https://github.com/igornoroc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=igornoroc&hide=stars,prs,issues,contribs&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/igornoroc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornoroc&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/igornoroc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=igornoroc&hide=stars,prs,issues,contribs&include_all_commits=true&theme=buefy&hide_border=true" /></a> <a href="https://github.com/igornoroc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornoroc&layout=compact&theme=buefy&hide_border=true" /></a>
     
 <!---
 IgorNoroc/IgorNoroc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
