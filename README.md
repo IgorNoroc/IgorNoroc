@@ -7,7 +7,23 @@
 <br>
     <b>
     - Мой стек изученных технологий:<br>
-       🎓 Java Core, Spring(Core, Boot, Mvc, Security, Data, Cloud), RestApi, Hibernate, PostgreSQL, Maven, Docker, JS, JQuery, Html, CSS 
+       🎓 ◾️Java Core
+◾️Spring(Core, Boot, Mvc, Security, Data, Spring Data JDBC)
+◾️RestApi
+◾️Hibernate
+◾️Servlet Api
+◾️MapStruct
+◾️Javers
+◾️PostgreSQL
+◾️Maven
+◾️Docker
+◾️JS, JQuery, Html, CSS(I'm weak here, but I can figure it out )
+◾️Kafka, ActiveMQ, RabbitMQ
+◾️ElasticSearch
+◾️DynamoDB
+◾️Any relational and non-relational databases
+◾️Liquibase
+◾️Experience in AWS
     <b/>
     
 </p>
