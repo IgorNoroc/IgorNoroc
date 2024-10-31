@@ -42,6 +42,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-Активность за 2024 год в текущем проекте
-![img](https://github.com/user-attachments/assets/dea4e80b-7042-4b1c-86bc-1ee655aa1cdd)
-
