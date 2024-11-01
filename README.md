@@ -19,11 +19,12 @@
 ◾️PostgreSQL
 ◾️Maven
 ◾️Docker
-◾️JS, JQuery, Html, CSS(I'm weak here, but I can figure it out )
+◾️JS, JQuery, Html, CSS
 ◾️Kafka, ActiveMQ, RabbitMQ
+◾️Redis
 ◾️ElasticSearch
+◾️POSTGRESQL
 ◾️DynamoDB
-◾️Any relational and non-relational databases
 ◾️Liquibase
 ◾️Experience in AWS
     <b/>
